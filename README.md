@@ -2,7 +2,7 @@
 ## Junior Backend Developer
 
 ### 👋 About Me
-Fresh Computer Science graduate with a passion for backend development and building scalable web applications. I enjoy solving complex problems and continuously learning new technologies to create efficient and robust solutions.
+Junior Backend Developer (PHP/Laravel) with hands-on experience in building secure and scalable backend systems. Experienced in designing RESTful APIs, database management, and backend workflows. Passionate about solving problems, learning modern backend practices, and applying OOP and design patterns to deliver maintainable and efficient solutions.
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** JavaScript, Python, Java, C#
