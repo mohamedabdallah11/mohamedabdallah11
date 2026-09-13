@@ -1,8 +1,11 @@
 # Mohamed Abdallah Hafez
-## Junior Backend Developer
+## Backend Software Engineer
 
 ### 👋 About Me
-Junior Backend Developer (PHP/Laravel) with hands-on experience in building secure and scalable backend systems. Experienced in designing RESTful APIs, database management, and backend workflows. Passionate about solving problems, learning modern backend practices, and applying OOP and design patterns to deliver maintainable and efficient solutions.
+Backend Software Engineer specializing in PHP and Laravel, with professional experience building production backend systems: RESTful
+APIs, multi-tenant architecture, and asynchronous, event-driven workflows. Experienced with authentication, background job processing,
+external service integrations, and microservice-based backend components, alongside Docker, CI/CD, and Azure-based deployments.
+Focused on writing clean, testable backend code for systems that need to hold up in production.
 
 ### 🛠️ Technical Skills
 - **Programming Languages:** JavaScript, Python, Java, C#
